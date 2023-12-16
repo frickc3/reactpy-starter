@@ -1,6 +1,6 @@
 # reactpy-starter
 
-This is the reactpy version of the example ReactJS project.
+This is the reactpy version of a example ReactJS project.
 
 It was created to determine what the effort was to change to reactpy from Reactjs.
 
